@@ -1,2 +1,1 @@
-link to personal site https://sallahuddin-khan.github.io/
-link to project site https://github.com/CS-A-11/assignment1-sallahuddin-khan.git
+Link to personal site https://sallahuddin-khan.github.io/ where I have posted my personal resume. Cheers...
